@@ -1,0 +1,2 @@
+C:/Git/GitHub/once-noticias/android/app/.cxx/RelWithDebInfo/j69715p5/x86_64/CMakeFiles/edit_cache.dir
+C:/Git/GitHub/once-noticias/android/app/.cxx/RelWithDebInfo/j69715p5/x86_64/CMakeFiles/rebuild_cache.dir

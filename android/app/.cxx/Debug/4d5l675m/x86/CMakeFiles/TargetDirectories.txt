@@ -1,0 +1,2 @@
+C:/Git/GitHub/OpenLibrary/android/app/.cxx/Debug/4d5l675m/x86/CMakeFiles/edit_cache.dir
+C:/Git/GitHub/OpenLibrary/android/app/.cxx/Debug/4d5l675m/x86/CMakeFiles/rebuild_cache.dir
